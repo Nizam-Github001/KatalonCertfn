@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Images homepage</name>
+   <tag></tag>
+   <elementGuidId>59ba8541-84b8-429a-9561-a490325fb17a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='/stock-images/']/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e770f22f-d314-492d-b708-c9a22a4f259e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Images homepage</value>
+      <webElementGuid>3c639b88-31a5-4a2b-a5d6-1db75b4c6c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;/stock-images/&quot;)/a[@class=&quot;text-sm flex justify-between font-normal w-full py-2 px-4 text-black hover:text-black focus:z-10&quot;]/div[1]</value>
+      <webElementGuid>c8e72b34-e926-4857-93a3-7d157453d32b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='/stock-images/']/a/div</value>
+      <webElementGuid>06972e83-a9fc-4138-8270-67b75c27698e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a/div</value>
+      <webElementGuid>c3f12fa4-e10c-4772-bdb6-dd974c8252ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Images homepage' or . = 'Images homepage')]</value>
+      <webElementGuid>d8059ba4-ec5a-46d3-8d0c-aa224d88bdbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

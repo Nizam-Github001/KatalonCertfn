@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All images</name>
+   <tag></tag>
+   <elementGuidId>781a7f7d-90c6-4f2e-ae40-fbacb93b07bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='search']/div/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>18c3e98b-24e7-4e19-9da3-99562c1315d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden pl-2 text-black lg:inline font-noto</value>
+      <webElementGuid>54ed2435-600a-4186-8a5f-8c93dc1b13ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All images</value>
+      <webElementGuid>a4b60811-bfcf-49bd-9d76-2a09e8dddf5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search&quot;)/div[1]/div[@class=&quot;search-class flex flex-row items-center border-black-border rounded-full border border-black h-12 2xs:p-0 md:p-0 bg-white md:my-2 3xs:h-11 2sm:h-10 sm:h-11 xl:h-12 3xs:rounded-none 2sm:rounded-full 2sm:min-w-80 lg:min-w-30&quot;]/div[@class=&quot;relative flex flex-row items-center flex-1 bg-transparent border-0 cursor-pointer text-grey-black md:mx-0 h-13 noto-sans md:rounded-tl-full md:rounded-bl-full&quot;]/button[@class=&quot;flex items-center h-full px-4 py-2 text-sm rounded-full cursor-pointer select-none focus:outline-none&quot;]/span[@class=&quot;hidden pl-2 text-black lg:inline font-noto&quot;]</value>
+      <webElementGuid>85aee780-e08d-4a32-ae4e-56c01922d5bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search']/div/div/div/button/span</value>
+      <webElementGuid>3a73f516-a396-45fd-9967-28faf00c2c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>e0add99e-0de7-4c43-b4ec-c11d06e61e0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'All images' or . = 'All images')]</value>
+      <webElementGuid>f842d37d-aa33-439a-bf70-99f7e2f4f478</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

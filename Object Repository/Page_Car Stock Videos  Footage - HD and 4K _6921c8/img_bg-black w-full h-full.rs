@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_bg-black w-full h-full</name>
+   <tag></tag>
+   <elementGuidId>caf491da-64e1-4a5c-bd1f-978a240972dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.bg-black.w-full.h-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e7a2da81-7163-491e-ad86-470b9e49d00b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-black w-full h-full</value>
+      <webElementGuid>dc21724d-d410-476d-b1a5-18789da03ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://s.alamy.com/logos/1.68.0/alamy.svg</value>
+      <webElementGuid>b815c355-2000-439e-9f22-e039090a256a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>67</value>
+      <webElementGuid>4bba17df-a822-47b7-9669-9a472c9b5d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>33</value>
+      <webElementGuid>4a3a2fc8-1da9-4185-9502-2d52088aba9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Alamy logo</value>
+      <webElementGuid>21ba1a52-be9c-4c18-82c2-a1d62c1ebc64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;flex items-center h-full whitespace-nowrap&quot;]/a[@class=&quot;w-20 h-16 py-3.5&quot;]/img[@class=&quot;bg-black w-full h-full&quot;]</value>
+      <webElementGuid>a53214b9-9364-4b8b-81a2-bd03e825ce38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/a/img</value>
+      <webElementGuid>3e07a9ab-543f-42cf-9866-7c86449e61e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Alamy logo']</value>
+      <webElementGuid>c57703b9-ce91-4f95-9ddf-e9232a73471a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>8c353b28-224d-44fd-a5fa-66d5fdafd1b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://s.alamy.com/logos/1.68.0/alamy.svg' and @alt = 'Alamy logo']</value>
+      <webElementGuid>910ac00f-d6d9-4345-af52-8913c89c29bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

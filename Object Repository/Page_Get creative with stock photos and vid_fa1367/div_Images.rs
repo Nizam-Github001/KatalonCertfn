@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Images</name>
+   <tag></tag>
+   <elementGuidId>e21af93a-ffe6-43e6-ba4e-3380dfb6b254</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-sm.flex.justify-between.font-bold.mr-4.py-6 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header']/div/ul/li/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f0d435ed-9c74-493a-b55f-592267ee6041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Images</value>
+      <webElementGuid>fbdf26b8-04b5-40f7-897a-589f4361ac47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;flex items-center h-full whitespace-nowrap&quot;]/ul[@class=&quot;hidden ml-6 md-4:block&quot;]/li[@class=&quot;w-max hover:text-guppie text-white relative inline-flex cursor-pointer&quot;]/a[@class=&quot;text-sm flex justify-between font-bold mr-4 py-6&quot;]/div[1]</value>
+      <webElementGuid>1420f807-d401-4334-966d-fda4b1481b83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header']/div/ul/li/a/div</value>
+      <webElementGuid>04a9b07a-3ccf-42d3-9173-e30fca88a1c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>8940fbbf-bdc1-4550-9fc8-825d953996e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Images' or . = 'Images')]</value>
+      <webElementGuid>f086610f-53f6-4038-b797-2003ade9bd3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_One-Stop Platform</name>
+   <tag></tag>
+   <elementGuidId>2aa07aae-8316-4696-bc06-3fc3ee8a38c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>90ba72ca-5e0e-4507-ae70-5609d42ab7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>One-Stop Platform</value>
+      <webElementGuid>588bbe9c-a460-4d83-98b9-26f683b42b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container main-wrapper d-flex flex-column justify-content-around&quot;]/div[@class=&quot;card shadow p-4 home-card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 d-flex flex-column&quot;]/div[@class=&quot;heading&quot;]/p[2]</value>
+      <webElementGuid>6ef04623-7d65-4534-8ca0-baf72ca64d7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>d2c59f5a-e0fd-4851-90c2-09ae04687d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'One-Stop Platform' or . = 'One-Stop Platform')]</value>
+      <webElementGuid>92414462-8279-44f8-bf9b-14c47bfe8ebb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Sorry Email or Password is incorrect</name>
+   <tag></tag>
+   <elementGuidId>0d4f9f5e-68f1-44fc-ac34-5b282c435b45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>11356f09-4be1-40f1-acd9-d1e05d83ab71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sorry! Email or Password is incorrect</value>
+      <webElementGuid>32c9e5f7-ae9f-4592-8c78-62e35c5b92ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container main-wrapper d-flex flex-column justify-content-around&quot;]/div[@class=&quot;card shadow p-4 home-card&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 d-flex flex-column&quot;]/form[1]/p[@class=&quot;text-danger&quot;]/strong[1]</value>
+      <webElementGuid>431566c3-9f27-4e63-9c99-990dcf425246</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>4c8bc030-35b1-4cf2-9e8b-57dc906bcd52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Sorry! Email or Password is incorrect' or . = 'Sorry! Email or Password is incorrect')]</value>
+      <webElementGuid>bab10ddf-3a54-4275-b762-0898af5d1e73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
